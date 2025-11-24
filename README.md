@@ -1,7 +1,7 @@
 1. Title : Smart FAQ Document Chatbot with RAG (n8n Workflow)
-2. Description
+2. Description :
 This n8n workflow creates an AI-powered Telegram chatbot that can answer questions from your documents. It automatically processes uploaded documents to learn their content and provides intelligent, context-aware answers. It eliminates manual information searching and provides instant, accurate support 24/7.
-3. Features
+4. Features :
 
   Automated Document Processing: Ingests and splits uploaded documents for the AI to learn.
 
@@ -13,11 +13,11 @@ This n8n workflow creates an AI-powered Telegram chatbot that can answer questio
 
   Vector-Based Memory: Stores document knowledge in Pinecone for fast and accurate information retrieval.
 
-4. Files Included
+4. Files Included :
 
     workflow.json → This is the exported n8n workflow file. It contains all the logic, node configurations, and connections. You can import this file directly into any n8n instance to recreate the entire automation.
 
-5. How to Use It
+5. How to Use It :
 
     Install n8n (locally or use a cloud instance).
 
@@ -37,7 +37,7 @@ This n8n workflow creates an AI-powered Telegram chatbot that can answer questio
 
     Activate the workflow.
 
-6. Tools Used
+6. Tools Used :
 
     n8n (Workflow Automation Platform)
 
