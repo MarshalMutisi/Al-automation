@@ -51,7 +51,7 @@ Tools Used:
     🚀 n8n (Workflow Automation)
 
 
-    📧 Workflow 2: AI-Powered Customer Support Email Automation
+📧 Workflow 2: AI-Powered Customer Support Email Automation
 🌟 Overview
 
 Automatically processes incoming Gmail messages, classifies support requests, and generates instant, accurate responses using your knowledge base. Reduces response time from hours to seconds.
