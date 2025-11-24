@@ -48,10 +48,10 @@ This n8n workflow creates an AI-powered Telegram chatbot that can answer questio
     Telegram (User Interface & Trigger)
 
 
-1. Title : AI-Powered Customer Support Email Automation (n8n Workflow)
-2. Description
 
-This n8n workflow automatically reads incoming Gmail messages, classifies them as customer support requests, and uses AI to generate personalized responses based on your knowledge base. It reduces response time from hours to seconds and ensures consistent, accurate answers to common customer questions.
+
+1. Title : AI-Powered Customer Support Email Automation (n8n Workflow)
+2. Description : This n8n workflow automatically reads incoming Gmail messages, classifies them as customer support requests, and uses AI to generate personalized responses based on your knowledge base. It reduces response time from hours to seconds and ensures consistent, accurate answers to common customer questions.
 3. Features
 
   Smart Email Classification: Automatically identifies customer support emails vs. other messages
