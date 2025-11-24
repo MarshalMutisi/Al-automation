@@ -1,8 +1,5 @@
-1. Title
-
-Smart FAQ Document Chatbot with RAG (n8n Workflow)
+1. Title : Smart FAQ Document Chatbot with RAG (n8n Workflow)
 2. Description
-
 This n8n workflow creates an AI-powered Telegram chatbot that can answer questions from your documents. It automatically processes uploaded documents to learn their content and provides intelligent, context-aware answers. It eliminates manual information searching and provides instant, accurate support 24/7.
 3. Features
 
